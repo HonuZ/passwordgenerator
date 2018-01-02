@@ -9,7 +9,7 @@ Uses abcdefgahijklmnoqprstuvwxABCDEFGHIJKLMNOPQRSTUVWX+-*/+-0123456789 character
 ![alt text](https://github.com/HonuZ/passwordgenerator/blob/master/gif.gif)
 <br><br>
 More features to come when I find the time.<br>
--choose the lenght of the password<br>
--choose the complexity of the password<br>
--feature that makes it possible to create password which include/consist of a certain word/selection of characters
--redesign
+ -choose the lenght of the password<br>
+ -choose the complexity of the password<br>
+ -feature that makes it possible to create password which include/consist of a certain word/selection of characters<br>
+ -redesign
