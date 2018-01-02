@@ -6,4 +6,4 @@ A simple password generator made in java. Provides a free and secure way to crea
 Uses abcdefgahijklmnoqprstuvwxABCDEFGHIJKLMNOPQRSTUVWX+-*/+-0123456789 characters.
 <br><br>Source can be found in the Number Generator folder. Simply copy into your eclipse-workspace folder.
 <br><br>
-![alt text](https://github.com/HonuZ/passwordgenerator/blob/master/Screenshot_20180102_203425.png)
+![alt text](https://github.com/HonuZ/passwordgenerator/blob/master/gif.gif)
