@@ -9,8 +9,7 @@ Linux: cd into directory where the file is located and give mark as executable. 
 Uses abcdefgahijklmnoqprstuvwxABCDEFGHIJKLMNOPQRSTUVWX+-*/+-0123456789 characters.
 <br>Source can be found in the Number Generator folder. Simply copy into your eclipse-workspace folder.
 <br><br>
-![alt text](https://github.com/HonuZ/passwordgenerator/blob/master/gif20.gif)
-<br><br>
+![alt text](https://github.com/HonuZ/passwordgenerator/blob/master/gif20.gif)<br><br>
 Update to version 2.0 on 4th January 2018. Changes:<br>
  -Added slider for changing the length of the password<br>
  -Added a way to choose whether or not numbers and special characters should be incuded<br><br>
