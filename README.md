@@ -12,7 +12,7 @@ Uses abcdefgahijklmnoqprstuvwxABCDEFGHIJKLMNOPQRSTUVWX+-*/+-0123456789 character
 
 ![alt text](https://raw.githubusercontent.com/HonuZ/passwordgenerator/master/gif20.gif)
 
-<br><br>
+<br>
 Update to version 2.0 on 4th January 2018. Changes:<br>
  -Added slider for changing the length of the password<br>
  -Added a way to choose whether or not numbers and special characters should be incuded<br><br>
